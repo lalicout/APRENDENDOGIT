@@ -4,3 +4,5 @@
 4. criação de arquivo
 5. git add <arquivo>
 6. commitar
+
+--- enviar o conteúdo do repositório local para um repositório remoto
